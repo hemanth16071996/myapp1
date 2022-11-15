@@ -8,4 +8,5 @@ while cnt<5:
     print("\n")
     print("my name is hemanth")
     print("my name is sheshi")
+    print("my name is teja")
 
